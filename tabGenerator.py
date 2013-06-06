@@ -17,6 +17,8 @@ def main():
         output += 'E|----------------------------------------| \n'
         output += '\n\n'
 
+        i += 1
+
     print output
 
 if __name__ == "__main__":
